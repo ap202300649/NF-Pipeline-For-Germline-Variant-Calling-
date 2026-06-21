@@ -1,4 +1,4 @@
-# NF-Pipeline-For-Germline-Variant-Calling
+# nextflow-germline-variant-calling
 
 A modular DSL2-based Nextflow pipeline for Germline Variant Calling using:
 
